@@ -1,0 +1,40 @@
+
+@font-face {
+    font-family: 'SpaceGrotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(b57aed8f-c369-4f1f-87b4-f503383b2c88.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'SpaceGrotesk';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(fa63d57f-07ea-4c8b-9289-fa7aa67df09f.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'SpaceGrotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(3cc09a8d-ed18-40bf-a456-58c2d7b00a27.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'SpaceGrotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(4004b0dd-dbe8-498a-9e43-1a798df98398.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'SpaceGrotesk';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(6d0ff931-56dd-4e80-bbb8-45d3d6e486c0.ttf) format('truetype');
+}
